@@ -48,6 +48,6 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 
-By  Estefania Ruiz 👩‍💻 <a href = 'https://www.twitter.com/@Nia_Ruiz10'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
-and
-Alexander Rodriguez 👨‍💻
+By Alexander Rodriguez 👨‍💻 <a href = 'https://twitter.com/rodriguezalexp'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
+<br>and<br>
+Estefania Ruiz 👩‍💻 <a href = 'https://www.twitter.com/@Nia_Ruiz10'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
