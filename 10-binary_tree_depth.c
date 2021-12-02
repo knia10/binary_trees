@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_depth - depth of a node in a binary tree
- * @tree:  pointer to the root node
+ * @node: pointer to the node to check
  * Return: Depth value
  */
 
